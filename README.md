@@ -23,3 +23,4 @@ pagina de ventas
 .container {
     display: flex;}    
 </style>
+
