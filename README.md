@@ -1,3 +1,7 @@
 # proyecto-grupal
 pagina de ventas
-gjrnfnrfn
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Belleza Alternativa</title>
