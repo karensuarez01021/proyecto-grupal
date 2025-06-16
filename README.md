@@ -4,4 +4,4 @@ pagina de ventas
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Belleza Alternativa</title>
+    <title>pagina de ventas</title>
